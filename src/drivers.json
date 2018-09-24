@@ -1,0 +1,25 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "name": "Adrian",
+      "hourly_rate": 25,
+      "ratings": 4,
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Barry",
+      "hourly_rate": 14,
+      "ratings": 5,
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Cynthia",
+      "hourly_rate": 50,
+      "ratings": 3,
+      "gender": "female"
+    }
+  ]
+}
